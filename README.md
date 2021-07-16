@@ -1,4 +1,4 @@
-### Hi! 👩🏻‍💻💙
+### Hi! 💻💙
 
 ![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/welcome-fernanda.png)
 
