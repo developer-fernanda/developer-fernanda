@@ -1,20 +1,21 @@
 ## Hi! 💻💙
+
 <br>
 
 ![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/welcome-fernanda.png)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developer-fernanda&repo=developer-fernanda&countColorcountColor)
 
+<br>
 
 ## ✉️ Contacts
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-ingrid-94156377/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.fernanda.ingrid@gmail.com)
 
+<br>
 
 ## </> Studying 
-<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +25,8 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📉 Statistics
 <br>
+## 📉 Statistics
 
  
 |  Stats |  Languages |
