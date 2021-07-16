@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! 👩🏻‍💻💙
 
-![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/3.png)
+![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/welcome-fernanda.png)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developer-fernanda&repo=developer-fernanda&countColorcountColor)
 
@@ -18,9 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
 
 
-  <img  align="left"  width="300px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
+  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
   
-  <img  align="right"  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/>
+  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/>
 
 
 
