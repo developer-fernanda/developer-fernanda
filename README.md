@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/developer-fernanda/developer-fernanda/blob/main/3.png
+![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/3.png)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developer-fernanda&repo=developer-fernanda&countColorcountColor)
 
