@@ -3,7 +3,7 @@
 
 <br>
 
-![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/welcome-fernanda.png)
+![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/Welcome%20to%20my%20%20world.gif)
 
 <br>
 
