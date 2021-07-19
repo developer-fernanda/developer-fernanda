@@ -10,7 +10,7 @@
 ## 👓 *About me* 
 
 
-|I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Systems Development🌐! <br><br> Here you will find projects developed during my journey of study and professional work 💻! <br><br> Welcome! | <img src="https://github.com/developer-fernanda/developer-fernanda/blob/main/Fernanda.gif"> |
+|I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Systems Development🌐! <br><br> Here you will find projects developed during my journey of study and professional work 💻! <br><br> Welcome! | <img src="https://github.com/developer-fernanda/developer-fernanda/blob/main/developer-fernanda.gif"> |
   |--|--|
 
 
