@@ -45,7 +45,7 @@
  
 |  Stats |  Languages |
 |--|--|
-|   <img  align="left"  width="430px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/> |   <img  align="left"  width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/> |
+|   <img  align="left"  width="440px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/> |   <img  align="left"  width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/> |
 
 
 
