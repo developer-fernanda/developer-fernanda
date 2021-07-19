@@ -7,6 +7,12 @@
 
 <br>
 
+## *CV* 📝 
+<a href="https://developer-fernanda.github.io/index.html"> curriculum vitae </a>
+
+
+<br>
+
 ## 👓 *About me* 
 
 
