@@ -8,7 +8,7 @@
 <br>
 
 ## *CV* 📝 
-<a href="https://developer-fernanda.github.io/index.html"> curriculum vitae </a>
+<a href=https://developer-fernanda.github.io/CV/index.html> curriculum vitae </a>
 
 
 <br>
