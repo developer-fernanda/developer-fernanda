@@ -1,4 +1,4 @@
-## *Hello world!* 💻💙 
+## 💻 *Hello world!* 💙 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developer-fernanda&repo=developer-fernanda&countColorcountColor)
 
 <br>
@@ -7,8 +7,13 @@
 
 <br>
 
-## *CV* 📝 
-<a href=https://developer-fernanda.github.io/CV/index.html> curriculum vitae </a>
+## 🌐 *Access*
+
+*One Page*
+<a href=https://developer-fernanda.github.io/dev/index.html> https://developer-fernanda.github.io/dev/index.html </a>
+<br><br>
+*Curriculum vitae*
+<a href=https://developer-fernanda.github.io/CV/index.html> https://developer-fernanda.github.io/CV/index.html  </a>
 
 
 <br>
