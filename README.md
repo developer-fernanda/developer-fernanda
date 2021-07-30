@@ -23,7 +23,7 @@
 
 I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Systems Development🌐! <br><br> Here you will find projects developed during my journey of study and professional work 💻! <br><br> Welcome! 
 <br> <br>
-![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/carousel-1.gif)
+![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/gif-sm.gif)
 <br>
 
 ## ✉️ *Contacts*
@@ -54,7 +54,7 @@ I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Syste
  
 |  Stats |  Languages |
 |--|--|
-|   <img  align="left"  width="430px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/> |   <img  align="left"  width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/> |
+|   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/> |   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/> |
 
 
 
