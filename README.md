@@ -7,11 +7,18 @@
 
 <br>
 
-## 🌐 *Access*
+## 📝 *Curriculum vitae*
+<a href=https://developer-fernanda.github.io/CV/index.html> developer-fernanda.github.io/CV  </a>
 
+<br>
 
-*Curriculum vitae*
-<a href=https://developer-fernanda.github.io/CV/index.html> https://developer-fernanda.github.io/CV/index.html  </a>
+## 🌐 *Recent work*
+<a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
+
+<a href=https://www.glotex.com.br> glotex.com.br </a>
+
+<a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
+
 
 
 <br>
