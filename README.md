@@ -9,9 +9,7 @@
 
 ## 🌐 *Access*
 
-*One Page*
-<a href=https://developer-fernanda.github.io/developer/index.html> https://developer-fernanda.github.io/developer/index.html </a>
-<br><br>
+
 *Curriculum vitae*
 <a href=https://developer-fernanda.github.io/CV/index.html> https://developer-fernanda.github.io/CV/index.html  </a>
 
