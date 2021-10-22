@@ -57,9 +57,7 @@ I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Syste
 ## 📉 *Statistics*
 
  
-|  Stats |  Languages |
-|--|--|
-|   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/> |   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-fernanda&layout=compact&hide=shell&theme=tokyonight"/> |
+ <img  align="left"  width="600px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
 
 
 
