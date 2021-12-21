@@ -1,11 +1,11 @@
-## 💻 *Hello world!* 💙 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=developer-fernanda&repo=developer-fernanda&countColorcountColor)
+## 💻 *About me* 
 
-<br>
 
-![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/Welcome%20to%20my%20%20world.gif)
+I'm fernanda 💙 <br><br> I have a degree 🎓 in Psychology and Systems Development🌐! <br><br> Here you will find projects developed during my journey of study and professional work 💻! <br><br> Welcome! 
+<br> <br>
+![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/gif-sm.gif)
 
-<br>
+<br> <br>
 
 ## 📝 *Curriculum vitae*
 <a href=https://developer-fernanda.github.io/CV/index.html> developer-fernanda.github.io/CV  </a>
@@ -23,13 +23,7 @@
 
 <br>
 
-## 👓 *About me* 
 
-
-I'm fernanda 💙 <br><br> I have a degree in Psychology  🎓 and I study Systems Development🌐! <br><br> Here you will find projects developed during my journey of study and professional work 💻! <br><br> Welcome! 
-<br> <br>
-![welcome](https://github.com/developer-fernanda/developer-fernanda/blob/main/gif-sm.gif)
-<br>
 
 ## ✉️ *Contacts*
 
