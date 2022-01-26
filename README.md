@@ -7,9 +7,6 @@ I'm fernanda 💙 <br><br> I have a degree 🎓 in Psychology and Systems Develo
 
 <br> <br>
 
-## 📝 *Curriculum vitae*
-<a href=https://developer-fernanda.github.io/CV/index.html> developer-fernanda.github.io/CV  </a>
-
 <br>
 
 ## 🌐 *Recent work*
@@ -20,14 +17,10 @@ I'm fernanda 💙 <br><br> I have a degree 🎓 in Psychology and Systems Develo
 <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
 
 
-
 <br>
 
 
-
 ## ✉️ *Contacts*
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-ingrid-94156377/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.fernanda.ingrid@gmail.com)
 
 <br>
