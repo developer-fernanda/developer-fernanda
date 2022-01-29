@@ -1,15 +1,14 @@
-## 💻 *About me* 
+## 💻 *Sobre Mim* 
 
 
-I'm fernanda 💙
+Olá, sou a Nanda 💙
 
-Here you will find projects developed during my journey of study and professional work 💻!
-
+Aqui você encontra projetos desenvolvidos durante minha jornada de estudo e trabalho profissiona 💻!
 
 <br> 
 
 
-## 🌐 *Recent work*
+## 🌐 *Trabalhos Recentes*
 Clínica Odontológica: <a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
 <br> 
 Distribuidora de produtos de saúde: <a href=https://www.glotex.com.br> glotex.com.br </a>
@@ -20,7 +19,7 @@ Clínica de Saúde Emocional: <a href=https://www.espacodamasio.com.br> espacoda
 <br>
 
 
-## </> *Studying*
+## </> *Estudando*
 <p>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -35,7 +34,7 @@ Clínica de Saúde Emocional: <a href=https://www.espacodamasio.com.br> espacoda
 
 <br>
 
-## 📉 *Statistics*
+## 📉 *Estatísticas*
  
  <img  align="left"  width="600px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
 
