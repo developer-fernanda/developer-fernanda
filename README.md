@@ -5,8 +5,7 @@
 *Bem-vindos, eu sou a Nanda!*
 
 *Aqui você irá encontrar projetos desenvolvidos durante minha jornada de estudos 🎓 e alguns trabalhos profissionais 💻!*
-
-<br> 
+<br><br> 
 
 ## *Trabalhos Recentes*
 *Clínica Odontológica:* <a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
@@ -14,8 +13,11 @@
 *Distribuidora de produtos de saúde:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
+<br><br> 
 
-<br>  
+## *Desafios*
+*Chat personalizado:* <a href=https://aluracord-matrix-bice.vercel.app> aluracord-matrix-bice.vercel.app </a>
+<br><br> 
 
 ## </> *Estudando*
 <p>
