@@ -41,31 +41,32 @@
 
 ## *Portfólio*
 
-### *Chat de mensagens*
+### <a href="https://aluracord-matrix-bice.vercel.app/"> *Chat de mensagens* </a>
 
 |LOGIN  | CHAT  |
 |-- | -- |
-|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
 
-### *Woocommerce*
+### <a href="https://github.com/developer-fernanda/cosmeticos"> *Woocommerce* </a>
 |HOME  | CARRINHO  |
 |-- | -- |
-|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
 
-### *Implantes Paulista*
+### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
 |HOME  | FOTOS  |
 |-- | -- |
-|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-2.png"/> |
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-1.png"/>   | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-2.png"/> |
 
-### *Glotex Solutions*
+### <a href="https://glotex.com.br/"> *Glotex Solutions* </a>
+
 |HOME  | SOBRE  |
 |-- | -- |
-|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-2.png"/> |
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-1.png"/>   | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-2.png"/> |
 
-### *Espaço Damasio*
+### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
 |HOME  | BLOG |
 |-- | -- |
-|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-2.png"/> |
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-1.png"/> | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-2.png"/> |
 
 
 
