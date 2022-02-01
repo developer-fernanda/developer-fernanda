@@ -37,7 +37,24 @@
 ## *Estatísticas*
  
  <img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
+ <br><br><br> <br><br><br> <br><br><br>
 
+## *Portfólio*
+
+### *Chat de mensagens*
+
+|LOGIN  | CHAT  |
+|-- | -- |
+|<img  align="left"  width="430px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="430px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
+
+### *Woocommerce*
+|HOME  | CARRINHO  |
+|-- | -- |
+|<img  align="left"  width="430px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="430px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
+
+
+
+ 
 
  
 
