@@ -45,12 +45,31 @@
 
 |LOGIN  | CHAT  |
 |-- | -- |
-|<img  align="left"  width="430px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="430px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
+|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
 
 ### *Woocommerce*
 |HOME  | CARRINHO  |
 |-- | -- |
-|<img  align="left"  width="430px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="430px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
+|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
+
+### *Implantes Paulista*
+|HOME  | FOTOS  |
+|-- | -- |
+|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-2.png"/> |
+
+### *Glotex Solutions*
+|HOME  | SOBRE  |
+|-- | -- |
+|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-2.png"/> |
+
+### *Espaço Damasio*
+|HOME  | BLOG |
+|-- | -- |
+|<img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-1.png"/>   | <img  align="left"  width="410px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-2.png"/> |
+
+
+
+
 
 
 
