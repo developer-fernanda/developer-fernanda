@@ -37,7 +37,7 @@
 ## *Estatísticas*
  
  <img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=developer-fernanda&show_icons=true&theme=tokyonight"/>
- <br><br><br> <br><br><br> <br><br><br>
+ <br><br><br> <br><br><br> <br><br><br><br>
 
 ## *Portfólio*
 
