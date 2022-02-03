@@ -5,6 +5,8 @@
 *Bem-vindos, eu sou a Nanda!*
 
 *Aqui você irá encontrar projetos desenvolvidos durante minha jornada de estudos 🎓 e alguns trabalhos profissionais 💻!*
+
+<a href="https://developer-fernanda.github.io/website/"> *Veja meu portfólio* </a>
 <br><br> 
 
 ## *Trabalhos Recentes*
