@@ -41,8 +41,17 @@
 
 ## *Portfólio*
 
-### <a href="https://aluracord-matrix-bice.vercel.app/"> *Chat de mensagens* </a>
+### <a href="https://developer-fernanda.github.io/website/"> *Website* </a>
+|HOME | SERVIÇOS |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/2.png"/> |
 
+### <a href="https://developer-fernanda.github.io/curriculo/"> *Currículo* </a>
+|SOBRE | CURSOS |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
+
+### <a href="https://aluracord-matrix-bice.vercel.app/"> *Chat de mensagens* </a>
 |LOGIN  | CHAT  |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
