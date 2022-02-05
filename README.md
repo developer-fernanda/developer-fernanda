@@ -77,12 +77,12 @@
 
 |HOME  | SOBRE  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-2.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-2.png"/> |
 
 ### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
 |HOME  | BLOG |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-2.png"/> |
 
 
 
