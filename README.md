@@ -53,6 +53,11 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
 
+### <a href="https://developer-fernanda.github.io/gym/"> *FITNESS* </a>
+|HOME | SERVIÇOS |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-2.png"/> |
+
 ### <a href="https://aluracord-matrix-bice.vercel.app/"> *Chat de mensagens* </a>
 |LOGIN  | CHAT  |
 |-- | -- |
@@ -66,18 +71,18 @@
 ### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
 |HOME  | FOTOS  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/implantesPaulista-2.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-2.png"/> |
 
 ### <a href="https://glotex.com.br/"> *Glotex Solutions* </a>
 
 |HOME  | SOBRE  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/glotex-2.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-2.png"/> |
 
 ### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
 |HOME  | BLOG |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/imagens/damasio-2.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> |
 
 
 
