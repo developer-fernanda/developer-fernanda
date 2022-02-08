@@ -53,7 +53,7 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
 
-### <a href="https://developer-fernanda.github.io/gym/"> *FITNESS* </a>
+### <a href="https://developer-fernanda.github.io/gym/"> *Fitness* </a>
 |HOME | SERVIÇOS |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-2.png"/> |
