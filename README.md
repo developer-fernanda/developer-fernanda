@@ -58,6 +58,10 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/gym-2.png"/> |
 
+### <a href="https://developer-fernanda.github.io/school/"> *School* </a>
+|<img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/school/1.png"/> | <img  align="left"  width="400px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/school/3.png"/> |
+|--|--|
+
 ### <a href="https://aluracord-matrix-bice.vercel.app/"> *Chat de mensagens* </a>
 |LOGIN  | CHAT  |
 |-- | -- |
