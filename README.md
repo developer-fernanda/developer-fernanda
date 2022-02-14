@@ -43,7 +43,7 @@
 
 ## *Portfólio*
 
-### <a href="https://developer-fernanda.github.io/website/"> *Website* </a>
+### <a href="https://developer-fernanda.github.io/website/"> *Website pessoal* </a>
 |HOME | SERVIÇOS |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/2.png"/> |
@@ -53,7 +53,7 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
 
-## *Website pessoal*
+## *Website*
 
 ### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
 |HOME  | FOTOS  |
