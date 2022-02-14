@@ -53,6 +53,26 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
 
+## *Website pessoal*
+
+### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
+|HOME  | FOTOS  |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-2.png"/> |
+
+### <a href="https://glotex.com.br/"> *Glotex Solutions* </a>
+
+|HOME  | SOBRE  |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-2.png"/> |
+
+### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
+|HOME  | BLOG |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-2.png"/> |
+
+## *One Page*
+
 ### <a href="https://developer-fernanda.github.io/gym/"> *Fitness* </a>
 |HOME | SERVIÇOS |
 |-- | -- |
@@ -72,21 +92,7 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
 
-### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
-|HOME  | FOTOS  |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-2.png"/> |
 
-### <a href="https://glotex.com.br/"> *Glotex Solutions* </a>
-
-|HOME  | SOBRE  |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-2.png"/> |
-
-### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
-|HOME  | BLOG |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-1.png"/> | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/damasio-2.png"/> |
 
 
 
