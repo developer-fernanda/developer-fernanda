@@ -1,10 +1,10 @@
-<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/mikasa.png" alt="git" width="220" /> 
+<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/mikasa.png" alt="git" width="200" /> 
 
-## *Olá Pessoal! 💙*
+## *Olá Pessoal! 🚀💙*
 
 *Bem-vindos, eu sou a Nanda!*
 
-*Aqui você irá encontrar projetos desenvolvidos durante minha jornada de estudos 🎓 e alguns trabalhos profissionais 💻!*
+*Aqui você irá encontrar alguns projetos desenvolvidos durante minha jornada de estudos e trabalhos profissionais!*
 
 <a href="https://developer-fernanda.github.io/website/"> *Veja meu portfólio* </a>
 <br><br> 
@@ -15,6 +15,12 @@
 *Distribuidora de produtos de saúde:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
+<br><br> 
+
+## *Templates*
+*Fitness:* <a href="https://developer-fernanda.github.io/gym/"> developer-fernanda.github.io/gym </a>
+<br>
+*School:* <a href="https://developer-fernanda.github.io/school/"> developer-fernanda.github.io/school/ </a>
 <br><br> 
 
 ## *Desafios*
