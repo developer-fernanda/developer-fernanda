@@ -1,4 +1,4 @@
-<img align="right" src="https://img-12.stickers.cloud/packs/bae69f3d-4536-48f0-8d73-09429991908c/webp/7bc26724-f73c-4493-a665-c2087d02ca9a.webp" alt="git" width="220" height="220"/> 
+<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/mikasa.png" alt="git" width="220" /> 
 
 ## *Olá Pessoal! 💙*
 
