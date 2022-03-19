@@ -94,9 +94,9 @@
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/aluracord-matrix/blob/master/public/img/2.png"/> |
 
 ### <a href="https://github.com/developer-fernanda/cosmeticos"> *Woocommerce* </a>
-|HOME  | CARRINHO  |
+|HOME  | LOJA  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/cosmeticos/blob/master/img/2.png"/> |
 
 
 
