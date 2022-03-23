@@ -15,6 +15,8 @@
 *Distribuidora de produtos de saúde:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
+<br>
+*Inscrições:* <a href=grupoflorescer@espacodamasio.com.br> grupoflorescer@espacodamasio.com.br </a>
 <br><br> 
 
 ## *Templates*
