@@ -16,7 +16,7 @@
 <br> 
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
 <br>
-*Inscrições:* <a href=grupoflorescer@espacodamasio.com.br> grupoflorescer@espacodamasio.com.br </a>
+*Inscrições:* <a href=http://grupoflorescer.espacodamasio.com.br> grupoflorescer.espacodamasio.com.br </a>
 <br><br> 
 
 ## *Templates*
