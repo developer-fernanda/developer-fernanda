@@ -10,14 +10,20 @@
 <br><br> 
 
 ## *Trabalhos Recentes*
-*Clínica Odontológica:* <a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
+*E-commerce:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
-*Distribuidora de produtos de saúde:* <a href=https://www.glotex.com.br> glotex.com.br </a>
+*Site Institucional:* <a href=https://institucional.glotex.com.br/> institucional.glotex.com.br/ </a>
+<br> 
+*Clínica Odontológica:* <a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
 <br> 
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
 <br>
 *Inscrições:* <a href=http://grupoflorescer.espacodamasio.com.br> grupoflorescer.espacodamasio.com.br </a>
+<br>
+*Inscrições:* <a href=http://neuropsicoeducacao.espacodamasio.com.br/> http://neuropsicoeducacao.espacodamasio.com.br </a>
 <br><br> 
+
+
 
 ## *Templates*
 *Fitness:* <a href="https://developer-fernanda.github.io/gym/"> developer-fernanda.github.io/gym </a>
@@ -39,7 +45,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="60" height="60"/>  
 </p>
 
 <br>
