@@ -10,6 +10,8 @@
 <br><br> 
 
 ## *Trabalhos Recentes*
+*Website profissional:* <a href=https://www.nutrihenriquemonteiro.com.br> nutrihenriquemonteiro.com.br </a>
+<br> 
 *E-commerce:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
 *Site Institucional:* <a href=https://institucional.glotex.com.br/> institucional.glotex.com.br/ </a>
@@ -61,23 +63,38 @@
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/2.png"/> |
 
+
 ### <a href="https://developer-fernanda.github.io/curriculo/"> *Currículo* </a>
 |SOBRE | CURSOS |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/curriculo/2.png"/> |
 
+## *E-commerce*
+### <a href="https://glotex.com.br/"> *E-commerce Glotex* </a>
+
+|HOME  | PRODUTOS  |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/E-commerce-glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/E-commerce-glotex-2.png"/> |
+
 ## *Website*
+
+### <a href="https://institucional.glotex.com.br/"> *Institucional Glotex* </a>
+
+|HOME  | SOBRE  |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-2.png"/> |
+
+### <a href="https://nutrihenriquemonteiro.com.br/"> *Nutricionista Henrique Monteiro* </a>
+
+|HOME  | SOBRE  |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenrique-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenrique-2.png"/> |
 
 ### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
 |HOME  | FOTOS  |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/implantesPaulista-2.png"/> |
 
-### <a href="https://glotex.com.br/"> *Glotex Solutions* </a>
-
-|HOME  | SOBRE  |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/glotex-2.png"/> |
 
 ### <a href="https://espacodamasio.com.br/"> *Espaço Damasio* </a>
 |HOME  | BLOG |
