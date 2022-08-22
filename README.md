@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/Nezuko.png" alt="git" width="600" /> 
+<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/Nezuko.png" alt="git" width="300" /> 
 
 ## *Olá Pessoal! 🚀💙*
 
