@@ -88,7 +88,7 @@
 
 |HOME  | SOBRE  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenrique-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenrique-2.png"/> |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenriquemonteiro-1.png"/>   | <img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/nutrihenrique-2.png"/> |
 
 ### <a href="https://implantespaulista.com.br/"> *Implantes Paulista* </a>
 |HOME  | FOTOS  |
