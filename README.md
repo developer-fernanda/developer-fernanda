@@ -12,7 +12,7 @@
 ## *Trabalhos Recentes*
 *Website ebook:* <a href=https://www.nutrihenriquemonteiro.com.br](https://nutrihenriquemonteiro.com.br/ebook.html> https://nutrihenriquemonteiro.com.br/ebook.html </a>
 <br>
-*Website profissional:* <a href=https://www.nutrihenriquemonteiro.com.br> nutrihenriquemonteiro.com.br </a>
+*Website profissional:* <a href=https://nutrihenriquemonteiro.com.br> nutrihenriquemonteiro.com.br </a>
 <br>
 *Site para imobiliária:* <a href=https://marilzaimoveis.com.br> marilzaimoveis.com.br</a>
 <br> 
