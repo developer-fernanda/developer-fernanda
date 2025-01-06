@@ -1,8 +1,10 @@
-<img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/misa.png" alt="git" width="350" style="margin-top: -10px; vertical-align: middle;" />
-
-## *Olá Pessoal! 🚀💙*
-
-*Bem-vindos, eu sou a Nanda!*
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div>
+    ## Olá Pessoal! 🚀💙  
+    Bem-vindos, eu sou a Nanda!
+  </div>
+  <img src="https://github.com/developer-fernanda/developer-fernanda/blob/main/misa.png" alt="git" width="350" style="margin-left: 10px;" />
+</div>
 
 *Aqui, você encontrará uma seleção especial de projetos desenvolvidos durante minha formação no curso de desenvolvimento de Sitemas da ETEC, além de experiências profissionais que marcaram minha trajetória.*
 
