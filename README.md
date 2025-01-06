@@ -9,9 +9,9 @@
 <a href="https://developer-fernanda.github.io/website/"> *Veja meu portfólio* </a>
 <br><br> 
 
-## * Destaques do Meu Portfólio*
+## *Destaques do Meu Portfólio*
 *Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
-<br><br>
+<br>
 *E-commerce:* <a href=https://www.glotex.com.br> glotex.com.br </a>
 <br> 
 *Site Institucional:* <a href=https://institucional.glotex.com.br/> institucional.glotex.com.br/ </a>
@@ -32,7 +32,7 @@
 
 
 ## *Templates*
-* Projetos desenvolvidos como parte dos meus estudos, explorando conceitos de design e desenvolvimento:*
+*Projetos desenvolvidos como parte dos meus estudos, explorando conceitos de design e desenvolvimento:*
 <br>
 *Fitness:* <a href="https://developer-fernanda.github.io/gym/"> developer-fernanda.github.io/gym </a>
 <br>
