@@ -1,8 +1,8 @@
 <img align="right" src="https://github.com/developer-fernanda/developer-fernanda/blob/main/misa.png" alt="git" width="350" />
 
-## *Olá Pessoal! 🚀💙*
+## Olá Pessoal! 🚀💙
 
-*Bem-vindos, eu sou a Nanda!*
+**Bem-vindos, eu sou a Nanda!**
 
 *Aqui, você encontrará uma seleção especial de projetos desenvolvidos durante minha formação no curso de desenvolvimento de Sitemas da ETEC, além de experiências profissionais que marcaram minha trajetória.*
 
