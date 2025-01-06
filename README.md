@@ -4,37 +4,39 @@
 
 *Bem-vindos, eu sou a Nanda!*
 
-*Aqui você irá encontrar alguns projetos desenvolvidos durante minha jornada de estudos e trabalhos profissionais!*
+*Aqui, você encontrará uma seleção especial de projetos desenvolvidos durante minha formação no curso de desenvolvimento de Sitemas da ETEC, além de experiências profissionais que marcaram minha trajetória.*
 
 <a href="https://developer-fernanda.github.io/website/"> *Veja meu portfólio* </a>
 <br><br> 
 
-## *Trabalhos Recentes*
+## * Destaques do Meu Portfólio*
+*Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
+<br><br>
+*E-commerce:* <a href=https://www.glotex.com.br> glotex.com.br </a>
+<br> 
+*Site Institucional:* <a href=https://institucional.glotex.com.br/> institucional.glotex.com.br/ </a>
+<br> 
 *Website ebook:* <a href=https://www.nutrihenriquemonteiro.com.br](https://nutrihenriquemonteiro.com.br/ebook.html> https://nutrihenriquemonteiro.com.br/ebook.html </a>
 <br>
 *Website profissional:* <a href=https://nutrihenriquemonteiro.com.br> nutrihenriquemonteiro.com.br </a>
 <br>
 *Site para imobiliária:* <a href=https://marilzaimoveis.com.br> marilzaimoveis.com.br</a>
 <br> 
-*E-commerce:* <a href=https://www.glotex.com.br> glotex.com.br </a>
-<br> 
-*Site Institucional:* <a href=https://institucional.glotex.com.br/> institucional.glotex.com.br/ </a>
-<br> 
 *Clínica Odontológica:* <a href=https://implantespaulista.com.br> implantespaulista.com.br  </a>
 <br> 
-*Clínica de Saúde Emocional:* <a href=https://www.espacodamasio.com.br> espacodamasio.com.br </a>
-<br>
+
+## *Desafios*
+*Chat personalizado:* <a href=https://aluracord-matrix-bice.vercel.app> aluracord-matrix-bice.vercel.app </a>
+<br><br> 
 
 
 
 ## *Templates*
+* Projetos desenvolvidos como parte dos meus estudos, explorando conceitos de design e desenvolvimento:*
+<br>
 *Fitness:* <a href="https://developer-fernanda.github.io/gym/"> developer-fernanda.github.io/gym </a>
 <br>
 *School:* <a href="https://developer-fernanda.github.io/school/"> developer-fernanda.github.io/school/ </a>
-<br><br> 
-
-## *Desafios*
-*Chat personalizado:* <a href=https://aluracord-matrix-bice.vercel.app> aluracord-matrix-bice.vercel.app </a>
 <br><br> 
 
 ## </> *Estudando*
